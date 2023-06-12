@@ -1,0 +1,5 @@
+IP: 158.160.72.242;
+name_taski: https://localvoidtaski.ddnsking.com/ ;
+name_kittygram: https://kittygramvoid.ddns.net/ ;
+login: egor(taski)  /   Egor(kittygram);
+password: 55662233 - для обоих; 
