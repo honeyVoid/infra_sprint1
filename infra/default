@@ -37,8 +37,6 @@ server {
     listen 80;
     server_name 158.160.72.242 localvoidtaski.ddnsking.com;
     return 404; # managed by Certbot
-
-
 }
 
 server {
@@ -69,7 +67,6 @@ server {
     ssl_certificate_key /etc/letsencrypt/live/kittygramvoid.ddns.net/privkey.pem; # managed by Certbot
     include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
     ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
-
 }
 
 
@@ -82,6 +79,4 @@ server {
     server_name kittygramvoid.ddns.net;
     listen 80;
     return 404; # managed by Certbot
-
-
 }
